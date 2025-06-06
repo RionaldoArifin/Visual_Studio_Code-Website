@@ -25,6 +25,7 @@ body {
     border-color: #313437;
     border-style: solid;
     border-width: thin;
+    z-index: 1000;
 }
 
 .nav__links {
